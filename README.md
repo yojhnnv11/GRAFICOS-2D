@@ -1,3 +1,4 @@
+Generador de garficos 2D
 Funcionalidad Principal del GRAFICOS-2D
 
 La funcionalidad central de la app se puede resumir en la visualización comparativa de un conjunto de datos estático.
@@ -11,4 +12,5 @@ Eje Y: Representa los valores numéricos de las ventas promedio.
 
 Análisis Comparativo: El objetivo final es permitir al usuario (o al analista) comparar de forma visual e inmediata las ventas promedio entre los diferentes municipios, 
 identificando rápidamente cuál tiene el rendimiento más alto y cuál el más bajo.
+
 
